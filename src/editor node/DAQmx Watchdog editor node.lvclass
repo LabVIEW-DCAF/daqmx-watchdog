@@ -57,14 +57,23 @@
 		<Property Name="NI.ClassItem.Priority" Type="Int">1</Property>
 		<Property Name="NI.ClassItem.State" Type="Int">1082929680</Property>
 	</Item>
-	<Item Name="GetText.vi" Type="VI" URL="../GetText.vi">
-		<Property Name="NI.ClassItem.ConnectorPane" Type="Bin">&amp;!#!!!!!!!)!"1!&amp;!!!-!%!!!@````]!!!!"!!%!!!'"!!!!$!!-1#%'=X2B&gt;(6T!!!,1!-!"'.P:'5!!""!-0````]'=W^V=G.F!!!71&amp;!!!Q!!!!%!!AFF=H*P=C"P&gt;81!'%!Q`````Q^B:'2J&gt;'FP&lt;G&amp;M)(2F?(1!$E!Q`````Q2U:8BU!!"/1(!!(A!!*#*%16&amp;N?#"8982D;'2P:S"F:'FU&lt;X)A&lt;G^E:3ZM&gt;G.M98.T!!!?2%&amp;2&lt;8AA6W&amp;U9WBE&lt;W=A:72J&gt;'^S)'ZP:'5A&lt;X6U!!!/1$$`````"7&gt;M?8"I!!1!!!!71&amp;!!!Q!!!!%!!ABF=H*P=C"J&lt;A!!4%"Q!"Y!!#1C2%&amp;2&lt;8AA6W&amp;U9WBE&lt;W=A:72J&gt;'^S)'ZP:'5O&lt;(:D&lt;'&amp;T=Q!!(52"57VY)&amp;&gt;B&gt;'.I:'^H)'6E;82P=C"O&lt;W2F)'FO!&amp;1!]!!-!!-!"!!&amp;!!9!"Q!)!!A!#!!*!!A!#!!+!Q!!?!!!$1A!!!E!!!!*!!!!D1M!!!E!!!!!!!!!!!!!!!!!!!!+!!!!!!!!!!!!!!#3!!!!!!%!#Q!!!!!</Property>
+	<Item Name="Get Category.vi" Type="VI" URL="../Get Category.vi">
+		<Property Name="NI.ClassItem.ConnectorPane" Type="Bin">&amp;!#!!!!!!!)!"1!&amp;!!!-!%!!!@````]!!!!"!!%!!!&amp;J!!!!#A!-1#%'=X2B&gt;(6T!!!,1!-!"'.P:'5!!""!-0````]'=W^V=G.F!!!71&amp;!!!Q!!!!%!!AFF=H*P=C"P&gt;81!"!!!!"*!-0````])1W&amp;U:7&gt;P=HE!!%Z!=!!?!!!E)E2"57VY)&amp;&gt;B&gt;'.I:'^H)'6E;82P=C"O&lt;W2F,GRW9WRB=X-!!"Z%16&amp;N?#"8982D;'2P:S"F:'FU&lt;X)A&lt;G^E:3"P&gt;81!!#"!5!!$!!!!!1!#%W6S=G^S)'FO)#BO&lt;S"F=H*P=CE!4%"Q!"Y!!#1C2%&amp;2&lt;8AA6W&amp;U9WBE&lt;W=A:72J&gt;'^S)'ZP:'5O&lt;(:D&lt;'&amp;T=Q!!(52"57VY)&amp;&gt;B&gt;'.I:'^H)'6E;82P=C"O&lt;W2F)'FO!&amp;1!]!!-!!-!"!!&amp;!!9!"!!%!!1!"!!(!!1!"!!)!A!!?!!!$1A!!!!!!!!*!!!!D1M!!!!!!!!!!!!!!!!!!!!!!!!)!!!!!!!!!!!!!!#1!!!!!!%!#1!!!!!</Property>
 		<Property Name="NI.ClassItem.ExecutionSystem" Type="Int">-1</Property>
-		<Property Name="NI.ClassItem.Flags" Type="Int">16777344</Property>
+		<Property Name="NI.ClassItem.Flags" Type="Int">0</Property>
 		<Property Name="NI.ClassItem.IsStaticMethod" Type="Bool">false</Property>
 		<Property Name="NI.ClassItem.MethodScope" Type="UInt">1</Property>
 		<Property Name="NI.ClassItem.Priority" Type="Int">1</Property>
-		<Property Name="NI.ClassItem.State" Type="Int">1350574608</Property>
+		<Property Name="NI.ClassItem.State" Type="Int">1342972416</Property>
+	</Item>
+	<Item Name="GetText.vi" Type="VI" URL="../GetText.vi">
+		<Property Name="NI.ClassItem.ConnectorPane" Type="Bin">&amp;!#!!!!!!!)!"1!&amp;!!!-!%!!!@````]!!!!"!!%!!!'"!!!!$!!-1#%'=X2B&gt;(6T!!!,1!-!"'.P:'5!!""!-0````]'=W^V=G.F!!!71&amp;!!!Q!!!!%!!AFF=H*P=C"P&gt;81!'%!Q`````Q^B:'2J&gt;'FP&lt;G&amp;M)(2F?(1!$E!Q`````Q2U:8BU!!"/1(!!(A!!*#*%16&amp;N?#"8982D;'2P:S"F:'FU&lt;X)A&lt;G^E:3ZM&gt;G.M98.T!!!?2%&amp;2&lt;8AA6W&amp;U9WBE&lt;W=A:72J&gt;'^S)'ZP:'5A&lt;X6U!!!/1$$`````"7&gt;M?8"I!!1!!!!71&amp;!!!Q!!!!%!!ABF=H*P=C"J&lt;A!!4%"Q!"Y!!#1C2%&amp;2&lt;8AA6W&amp;U9WBE&lt;W=A:72J&gt;'^S)'ZP:'5O&lt;(:D&lt;'&amp;T=Q!!(52"57VY)&amp;&gt;B&gt;'.I:'^H)'6E;82P=C"O&lt;W2F)'FO!&amp;1!]!!-!!-!"!!&amp;!!9!"Q!)!!A!#!!*!!A!#!!+!A!!?!!!$1A!!!E!!!!*!!!!D1M!!!E!!!!!!!!!!!!!!!!!!!!)!!!!!!!!!!!!!!#1!!!!!!%!#Q!!!!!</Property>
+		<Property Name="NI.ClassItem.ExecutionSystem" Type="Int">-1</Property>
+		<Property Name="NI.ClassItem.Flags" Type="Int">1090519168</Property>
+		<Property Name="NI.ClassItem.IsStaticMethod" Type="Bool">false</Property>
+		<Property Name="NI.ClassItem.MethodScope" Type="UInt">1</Property>
+		<Property Name="NI.ClassItem.Priority" Type="Int">1</Property>
+		<Property Name="NI.ClassItem.State" Type="Int">1082130944</Property>
 	</Item>
 	<Item Name="UIRef.vi" Type="VI" URL="../UIRef.vi">
 		<Property Name="NI.ClassItem.ConnectorPane" Type="Bin">&amp;!#!!!!!!!)!"1!&amp;!!!-!%!!!@````]!!!!"!!%!!!&amp;8!!!!#A!-1#%'=X2B&gt;(6T!!!,1!-!"'.P:'5!!""!-0````]'=W^V=G.F!!!71&amp;!!!Q!!!!%!!AFF=H*P=C"P&gt;81!"!!!!":!=!!)!!!!!A!!#6:*)(*F:GZV&lt;1")1(!!(A!!*#*%16&amp;N?#"8982D;'2P:S"F:'FU&lt;X)A&lt;G^E:3ZM&gt;G.M98.T!!!9:GFY:71A9WBB&lt;GZF&lt;#"F:'FU&lt;X)A&lt;X6U!!!71&amp;!!!Q!!!!%!!ABF=H*P=C"J&lt;A!!2E"Q!"Y!!#1C2%&amp;2&lt;8AA6W&amp;U9WBE&lt;W=A:72J&gt;'^S)'ZP:'5O&lt;(:D&lt;'&amp;T=Q!!&amp;W:J?'6E)'.I97ZO:7QA:72J&gt;'^S)'FO!&amp;1!]!!-!!-!"!!&amp;!!9!"!!%!!1!"!!(!!1!"!!)!A!!?!!!$1A!!!!!!!!*!!!!D1M!!!!!!!!!!!!!!!!!!!!!!!!)!!!!!!!!!!!!!!#1!!!!!!%!#1!!!!!</Property>
