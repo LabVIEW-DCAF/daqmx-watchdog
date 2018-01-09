@@ -145,6 +145,7 @@
 				<Item Name="DAQmx Configure Watchdog Expiration States (Counter Output).vi" Type="VI" URL="/&lt;vilib&gt;/DAQmx/configure/task.llb/DAQmx Configure Watchdog Expiration States (Counter Output).vi"/>
 				<Item Name="DAQmx Configure Watchdog Expiration States (Analog Output).vi" Type="VI" URL="/&lt;vilib&gt;/DAQmx/configure/task.llb/DAQmx Configure Watchdog Expiration States (Analog Output).vi"/>
 				<Item Name="DAQmx Configure Watchdog Expiration States.vi" Type="VI" URL="/&lt;vilib&gt;/DAQmx/configure/task.llb/DAQmx Configure Watchdog Expiration States.vi"/>
+				<Item Name="DAQmx Start Task.vi" Type="VI" URL="/&lt;vilib&gt;/DAQmx/configure/task.llb/DAQmx Start Task.vi"/>
 			</Item>
 			<Item Name="System.Drawing" Type="Document" URL="System.Drawing">
 				<Property Name="NI.PreserveRelativePath" Type="Bool">true</Property>
